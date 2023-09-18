@@ -1,0 +1,4 @@
+a ../pg-being_ernest.txt ../pg-dorian_gray.txt ../pg-frankenstein.txt ../pg-grimm.txt ../pg-huckleberry_finn.txt ../pg-metamorphosis.txt ../pg-sherlock_holmes.txt ../pg-tom_sawyer.txt
+b 15 20 21 22 22 23 25 26
+c 141416 142380 421871 448686 462072 549743 594915 606623
+d xyzzy xyzzy xyzzy xyzzy xyzzy xyzzy xyzzy xyzzy
